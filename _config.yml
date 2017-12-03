@@ -19,17 +19,17 @@ avatar: https://avatars0.githubusercontent.com/u/1421056
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: kamyar@[I tripple E].org
+  facebook: kamyar.m
   flickr:
-  github: barryclark/jekyll-now
+  github: kammoh
   instagram:
-  linkedin:
+  linkedin: kammoh
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  twitter: kammoh
+  stackoverflow: "users/1308473/kamyar" # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: user/kammoh # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
