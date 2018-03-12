@@ -8,7 +8,8 @@ Thou shalt know me by grooves!
 
 ### More Information
 
-Currently a ECE PhD Student.
+Currently an ECE PhD Student at George Mason University.
+Interested in Computer Architecture, Security, Machine Learning, Hardware Design, and Domain Specific Accelerators
 
 ### Contact me
 
