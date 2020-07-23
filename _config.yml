@@ -1,7 +1,3 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
 name: Kamyar Mohajerani
 
@@ -10,7 +6,6 @@ description: Digital Electronics Aficionado
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/1421056
-#https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -20,17 +15,16 @@ avatar: https://avatars0.githubusercontent.com/u/1421056
 footer-links:
   dribbble:
   email: kamyar@[I tripple E].org
-  facebook: kamyar.m
-  flickr:
+  # facebook: kamyar.m
+  # flickr:
   github: kammoh
-  instagram:
+  # instagram:
   linkedin: kammoh
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: ImprobableK
+  # pinterest:
+  # rss: # just type anything here for a working RSS icon
   stackoverflow: "users/1308473/kamyar" # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UC8O3TQna95dKAO9u9BTDq3Q #user/kammoh # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  # youtube: channel/UC8O3TQna95dKAO9u9BTDq3Q #user/kammoh # channel/<your_long_string> or user/<user-name>
+  # googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
