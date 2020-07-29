@@ -16,12 +16,21 @@ function getDT() {
         data: data.data,
         columns: columns,
         initComplete: function () {
-          //   var footer = $(this).append('<tfoot><tr></tr></tfoot>');
-          //   this.api().columns().every(function () {
-          //     var title = $(this.header()).html();
-          // //     console.log(title);
-          //     $(footer).append('<th><input type="text" placeholder="Search ' + title + '" /></th>');
+          var footer = $(this).append('<tfoot><tr></tr></tfoot>');
+          // this.api().columns().every(function () {
+          //   var title = $(this.header()).html();
+          //   var that = this;
+          //   var xxx = $(footer).append('<th><input type="text" placeholder="Search ' + title + '" /></th>');
+          //   $('input', xxx).on('keyup change clear', function () {
+          //     if (that.search() !== this.value) {
+                
+          //       console.log(this.value);
+          //       that.search(this.value)
+          //           .draw();
+          //     }
           //   });
+
+          // });
 
           $('#caesar thead tr').clone(true).appendTo('#caesar thead');
           $('#caesar thead tr:eq(1) th').each(function (i) {
